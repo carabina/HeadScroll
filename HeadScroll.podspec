@@ -12,5 +12,5 @@ Pod::Spec.new do |s|
 
 
 
-    s.source_files = 'HeadScroll/*.swift'
+    s.source_files = 'HeadScroll/Head*.swift'
 end
